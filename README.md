@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **C#, Unity and .Net**
 
+- 🤝 I’m looking for help with **learning OOP**
+
 - 📫 How to reach me **ndiazquintano@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
